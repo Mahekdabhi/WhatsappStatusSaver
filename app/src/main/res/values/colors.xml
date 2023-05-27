@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="whats_App">#075E55</color>
+    <color name="wpBgColor">#075E55</color>
+    <color name="bar">#054C44</color>
+    <color name="name">#065d30</color>
+    <color name="gray">#616161</color>
+
 </resources>
